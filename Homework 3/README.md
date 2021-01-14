@@ -1,4 +1,4 @@
-# Homework 3 - Hot Potato
+# Homework 4 - Robot Command Simulator
 
 ## How To Use:
 - Compile and execute the Java file
