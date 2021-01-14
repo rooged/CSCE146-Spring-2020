@@ -21,3 +21,9 @@ Right
 Down
 
 Up
+
+Left
+
+Left
+
+Etc.
