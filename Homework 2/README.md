@@ -1,7 +1,8 @@
 # Homework 2 - Hot Potato
 
 ## How To Use:
-Can't upload front end since it's copywrited code.
+- Compile and execute the Java file
+- Follow programs prompts
 
 ## Result
 Program that plays 'Guess The Price'. Prints to console a list of prizes read from a file with associated prices.
